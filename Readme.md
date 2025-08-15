@@ -35,7 +35,7 @@ A RESTful API for managing Markdown notes with grammar checking and HTML renderi
 
 1. Clone the repository:
 ```bash
-git clone 
+git clone https://github.com/pantacrazy/Markdown-Note-taking-App
 cd markdown-notes-api
 ```
 
